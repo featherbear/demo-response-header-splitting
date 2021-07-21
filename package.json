@@ -1,0 +1,13 @@
+{
+  "name": "basic_http_response_header_splitting",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nodemon",
+    "start": "node ."
+  },
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
