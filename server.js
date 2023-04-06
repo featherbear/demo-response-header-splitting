@@ -1,4 +1,5 @@
 const net = require('net')
+require('docker-exit-shim')
 
 const server = net
   .createServer(conn => {

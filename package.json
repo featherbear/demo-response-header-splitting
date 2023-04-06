@@ -8,6 +8,7 @@
   "main": "server.js",
   "license": "MIT",
   "dependencies": {
+    "docker-exit-shim": "https://github.com/featherbear/docker-exit-shim.js",
     "nodemon": "^2.0.12"
   }
 }
